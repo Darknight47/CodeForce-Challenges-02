@@ -1,4 +1,5 @@
-/**
+/*
+* --------------- 1697A  A.Parkway Walk -------------------
 You are walking through a parkway near your house. The parkway has n+1 benches in a row numbered from 1 to n+1 from left to right.
 The distance between the bench i and i+1 is ai meters.
 
