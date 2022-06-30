@@ -1,4 +1,5 @@
-/**
+/*
+* -------------- 1204 B Mislove Has Lost an Array -----------------
 Mislove had an array a1, a2, ⋯, an of n positive integers, but he has lost it.
 He only remembers the following facts about it:
 
