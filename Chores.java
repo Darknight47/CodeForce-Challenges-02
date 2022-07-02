@@ -1,4 +1,5 @@
-/**
+/*
+* ------------- 169 A Chores ------------------
 Petya and Vasya are brothers. Today is a special day for them as their parents left them home alone
 and commissioned them to do n chores. Each chore is characterized by a single parameter — its complexity.
 The complexity of the i-th chore equals hi.
