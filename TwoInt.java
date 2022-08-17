@@ -1,4 +1,5 @@
-/**
+/*
+* -------------- 1409 A -------------
 You are given two integers a and b.
 
 In one move, you can choose some integer k from 1 to 10 and add it to a or subtract it from a. In other words, you choose an integer k∈[1;10] and perform a:=a+k or a:=a−k.
