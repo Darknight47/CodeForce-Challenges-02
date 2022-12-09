@@ -1,4 +1,5 @@
 /*
+* -------------------------------- 58A -------------------------------
 Vasya has recently learned to type and log on to the Internet. He immediately entered a chat room and decided to say
 hello to everybody. Vasya typed the word s. It is considered that Vasya managed to say hello if several letters can
 be deleted from the typed word so that it resulted in the word "hello". For example, if Vasya types the word
